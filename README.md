@@ -173,7 +173,7 @@ Downloaded artifacts and generated outputs are placed in Git-ignored
 - [x] 27B verbalizer inference and RA evaluation
 - [x] GTS, LIG, and GG evaluation sets
 - [x] Full evaluation reproduction
-- [ ] Complete 27B verbalizer checkpoint upload
+- [x] Complete 27B verbalizer checkpoint upload
 - [ ] 27B verbalizer training code and data
 - [ ] 1B-to-27B adapter checkpoint and inference
 - [ ] Adapter training code and data
