@@ -1,0 +1,9 @@
+outputs/
+checkpoints/
+sae/
+data/
+__pycache__/
+*.py[cod]
+.venv*/
+.idea/
+.vscode/
