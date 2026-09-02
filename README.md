@@ -158,6 +158,7 @@ SAEVerbalizer/
 ├── .gitignore
 ├── inference.py                 # SAE-injected generation
 ├── judge.py                     # Reference Agreement evaluation
+├── LICENSE
 ├── run_inference.sh             # inference entry point
 ├── run_judge.sh                 # evaluation entry point
 ├── requirements-inference.txt
@@ -191,3 +192,9 @@ If you use SAEVerbalizer, please cite:
   year    = {2026}
 }
 ```
+
+## License
+
+The code in this repository is released under the [MIT License](LICENSE).
+Model weights and datasets are distributed separately under their respective
+terms.
